@@ -2,7 +2,7 @@
 # Flask Admin Example
 
 ```bash
-git clone httpa://github.com/rochacbruno/flask_admin_example
+git clone https://github.com/rochacbruno/flask_admin_example
 cd flask_admin_example
 python3.6 -m venv venv
 source venv/bin/activate
