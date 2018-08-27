@@ -17,4 +17,7 @@ Access http://localhost:5000/admin
 - Username: admin 
 - Password secret
 
+Slides: http://bit.ly/palestraflaskadmin
+
+More in:
 http://bit.ly/tutorialflaskconf 
