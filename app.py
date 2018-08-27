@@ -3,9 +3,11 @@ from .ext import db
 from .ext import login
 from .ext import admin
 
-def create_app():
 
+def create_app():
+    """Application Factory"""
     app = Flask(__name__)
+
     # Create dummy secrey key
     app.config['SECRET_KEY'] = '123456790'
     # Set sqlite database location
